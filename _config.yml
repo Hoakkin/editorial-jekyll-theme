@@ -1,9 +1,9 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+title: SÁNGUCHE
+subtitle: cultural y sazón
+email: sanguche.revista@gmail.com
+description: Revista digital multimedial de difusión de contenidos culturales
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
